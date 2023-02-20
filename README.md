@@ -7,6 +7,8 @@
 
 ## Preparation
 
+<p align="center"><img src="static/Img/steps.png" alt="TSP" width="500"/></p>
+
 ### Runtime Analysis - Big O
 
 
